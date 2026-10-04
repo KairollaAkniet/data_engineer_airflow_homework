@@ -1,0 +1,10 @@
+DB: sqlite:////home/akniet/.cache/codex-airflow-homework-runtime/airflow/airflow.db
+Performing upgrade to the metadata database sqlite:////home/akniet/.cache/codex-airflow-homework-runtime/airflow/airflow.db
+[[34m2026-10-05T00:59:36.187+0500[0m] {[34mmigration.py:[0m213} INFO[0m - Context impl SQLiteImpl.[0m
+[[34m2026-10-05T00:59:36.188+0500[0m] {[34mmigration.py:[0m216} INFO[0m - Will assume non-transactional DDL.[0m
+[[34m2026-10-05T00:59:36.189+0500[0m] {[34mmigration.py:[0m213} INFO[0m - Context impl SQLiteImpl.[0m
+[[34m2026-10-05T00:59:36.190+0500[0m] {[34mmigration.py:[0m216} INFO[0m - Will assume non-transactional DDL.[0m
+INFO  [alembic.runtime.migration] Context impl SQLiteImpl.
+INFO  [alembic.runtime.migration] Will assume non-transactional DDL.
+INFO  [alembic.runtime.migration] Running stamp_revision  -> 10b52ebd31f7
+Database migrating done!

@@ -1,0 +1,38 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.22, pytest-7.4.0, pluggy-1.3.0 -- /home/akniet/.cache/codex-airflow-homework-runtime/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /mnt/c/Users/Akniet/OneDrive/Desktop/snip/airflow-homework
+configfile: pytest.ini
+plugins: anyio-4.1.0, mock-3.12.0
+collecting ... collected 27 items
+
+tests/test_dag_structure.py::test_dags_import PASSED                     [  3%]
+tests/test_dag_structure.py::test_configuration PASSED                   [  7%]
+tests/test_dag_structure.py::test_task_ids_and_operator_types PASSED     [ 11%]
+tests/test_dag_structure.py::test_exact_dependencies PASSED              [ 14%]
+tests/test_dag_structure.py::test_branch_join PASSED                     [ 18%]
+tests/test_dag_structure.py::test_sla_and_retry PASSED                   [ 22%]
+tests/test_dag_structure.py::test_documentation PASSED                   [ 25%]
+tests/test_dag_structure.py::test_taskflow PASSED                        [ 29%]
+tests/test_dag_structure.py::test_code_has_no_comments PASSED            [ 33%]
+tests/test_tasks.py::test_validate_data_success PASSED                   [ 37%]
+tests/test_tasks.py::test_validate_missing_file PASSED                   [ 40%]
+tests/test_tasks.py::test_validate_too_few_rows PASSED                   [ 44%]
+tests/test_tasks.py::test_schema_success PASSED                          [ 48%]
+tests/test_tasks.py::test_schema_missing_column PASSED                   [ 51%]
+tests/test_tasks.py::test_quality_branch[0-notify_warning] PASSED        [ 55%]
+tests/test_tasks.py::test_quality_branch[99-notify_warning] PASSED       [ 59%]
+tests/test_tasks.py::test_quality_branch[100-notify_warning] PASSED      [ 62%]
+tests/test_tasks.py::test_quality_branch[101-notify_success] PASSED      [ 66%]
+tests/test_tasks.py::test_quality_branch[9975-notify_success] PASSED     [ 70%]
+tests/test_tasks.py::test_quality_missing_xcom PASSED                    [ 74%]
+tests/test_tasks.py::test_notifications PASSED                           [ 77%]
+tests/test_tasks.py::test_spark_load PASSED                              [ 81%]
+tests/test_tasks.py::test_spark_clean PASSED                             [ 85%]
+tests/test_tasks.py::test_sql_analysis PASSED                            [ 88%]
+tests/test_tasks.py::test_partition_write PASSED                         [ 92%]
+tests/test_tasks.py::test_generate_report PASSED                         [ 96%]
+tests/test_tasks.py::test_report_requires_clean_xcom PASSED              [100%]
+
+============================= 27 passed in 20.49s ==============================
+Closing down clientserver connection

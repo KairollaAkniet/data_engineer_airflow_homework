@@ -1,0 +1,59 @@
+Popular people pipeline есебі
+Жасалған уақыт: 2026-10-05T01:00:24
+Жалпы жол саны: 9975
+Тазаланған жолдар: 9975
+Орташа танымалдылық: 2.1242
+
+Адам саны бойынша ТОП-5 сала:
+Acting: 9320, орташа 2.1448
+Directing: 329, орташа 1.8906
+Writing: 174, орташа 1.5795
+Production: 43, орташа 1.7509
+Sound: 27, орташа 1.6334
+
+Жыныс бойынша үлестірім:
+Male: 5271
+Female: 4537
+Unknown: 149
+Other: 18
+
+Әр саладағы ТОП-3:
+Acting | 1 | Robert Middlemass | 47.8017
+Acting | 2 | María Vaner | 47.2016
+Acting | 3 | Carl Wharton | 36.3365
+Art | 1 | Alex Kameniczky | 2.4766
+Art | 2 | Alex Kameniczky | 2.4766
+Art | 3 | Scott Roberts | 2.3803
+Camera | 1 | Nguyễn Phan Linh Đan | 4.2329
+Camera | 2 | Patrick Pulido | 2.359
+Camera | 3 | Federico Verardi | 1.727
+Costume & Make-Up | 1 | Grainne Daly | 2.0895
+Costume & Make-Up | 2 | Grainne Daly | 2.0895
+Costume & Make-Up | 3 | Brianna Patterson | 2.022
+Creator | 1 | Mi Er | 2.2467
+Creator | 2 | Mamoru Kambe | 1.0068
+Creator | 3 | Vincent Woodcock | 0.5953
+Crew | 1 | Deb Macatumpag | 2.8169
+Crew | 2 | Eric Leisher | 2.2675
+Crew | 3 | Danielle Aranda | 2.2564
+Directing | 1 | Adolfo Aristarain | 9.3881
+Directing | 2 | Adolfo Aristarain | 9.3881
+Directing | 3 | Julie Anne Robinson | 9.3199
+Editing | 1 | Shōji Sakai | 5.1203
+Editing | 2 | Adam Burr | 2.4358
+Editing | 3 | Roberta Bononi | 2.0998
+Lighting | 1 | Andy Day | 4.6303
+Lighting | 2 | Katie Colwell | 2.3768
+Lighting | 3 | Jim Malmgren | 1.9826
+Production | 1 | Krisma Fajardo | 7.9121
+Production | 2 | Divya Khossla | 3.1867
+Production | 3 | Ewa Piaskowska | 2.7122
+Sound | 1 | Takehito Koyasu | 3.1895
+Sound | 2 | Paul Williams | 2.3609
+Sound | 3 | Jiří Melcher | 2.342
+Visual Effects | 1 | Eric Larson | 47.978
+Visual Effects | 2 | Tetsuya Takeuchi | 5.8338
+Visual Effects | 3 | Soumen Das | 2.2816
+Writing | 1 | Aditya Dhar | 4.3938
+Writing | 2 | Aditya Dhar | 4.3938
+Writing | 3 | Deko Akao | 4.1207
